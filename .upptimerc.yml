@@ -30,13 +30,16 @@ sites:
   - name: SURAS-BR
     url: https://br-sa-vpn.schaeffler.com/vpn
     icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
+  - name: RMG
+    url: https://rmg.schaeffler.com/WebApp/user_login
+    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /suras
-  logoUrl: https://de-emea-vpn.schaeffler.com/dana-na/auth/url_F0ZNbTAu5fADsXG8/welcome.cgi?p=logo&signinId=url_F0ZNbTAu5fADsXG8 #https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://rmg.schaeffler.com/WebApp/graphics/custom_logo #https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: SURAS Monitoring
   favicon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
   introTitle: Monitoring SURAS Gateways
