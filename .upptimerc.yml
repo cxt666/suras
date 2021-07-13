@@ -36,9 +36,9 @@ sites:
   - name: RGW-DE
     url: https://rgw.schaeffler.com
     icon: https://www.pulsesecure.net/favicon.ico
-  - name: RGW-BR
-    url: https://rgw.schaeffler.com.br/
-    icon: https://www.pulsesecure.net/favicon.ico
+#  - name: RGW-BR
+#    url: https://rgw.schaeffler.com.br/
+#    icon: https://www.pulsesecure.net/favicon.ico
   - name: RMG
     url: https://rmg.schaeffler.com/WebApp/user_login
     icon: https://perfact.de/wp-content/uploads/2019/04/favicon.png
