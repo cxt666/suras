@@ -5,34 +5,43 @@ repo: suras # The name of this repository
 sites:
   - name: SURAS-DE
     url: https://de-emea-vpn.schaeffler.com/vpn
-    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
+    icon: https://www.pulsesecure.net/favicon.ico
   - name: SURAS-DE 2
     url: https://de-emea2-vpn.schaeffler.com/vpn
-    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
+    icon: https://www.pulsesecure.net/favicon.ico
   - name: SURAS-DE 3
     url: https://de-emea3-vpn.schaeffler.com/vpn
-    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
+    icon: https://www.pulsesecure.net/favicon.ico
   - name: SURAS-AP
     url: https://kr-ap-vpn.schaeffler.com/vpn
-    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
+    icon: https://www.pulsesecure.net/favicon.ico
   - name: SURAS-CN
     url: https://cn-ap-vpn.schaefflercn.com/vpn
-    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
+    icon: https://www.pulsesecure.net/favicon.ico
   - name: SURAS-IN
     url: https://in-ap-vpn.schaeffler.com/vpn
-    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
+    icon: https://www.pulsesecure.net/favicon.ico
   - name: SURAS-NA 1
     url: https://us-equ1-vpn.schaeffler.com/vpn
-    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
+    icon: https://www.pulsesecure.net/favicon.ico
   - name: SURAS-NA 2
     url: https://us-na2-vpn.schaeffler.com/vpn
-    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
+    icon: https://www.pulsesecure.net/favicon.ico
   - name: SURAS-BR
     url: https://br-sa-vpn.schaeffler.com/vpn
-    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
+    icon: https://www.pulsesecure.net/favicon.ico
+  - name: SURAS Mobile Devices
+    url: https://mgw.schaeffler.com/mobile
+    icon: https://www.pulsesecure.net/favicon.ico
+  - name: RGW-DE
+    url: https://rgw.schaeffler.com
+    icon: https://www.pulsesecure.net/favicon.ico
+  - name: RGW-BR
+    url: https://rgw.schaeffler.com.br
+    icon: https://www.pulsesecure.net/favicon.ico
   - name: RMG
     url: https://rmg.schaeffler.com/WebApp/user_login
-    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
+    icon: https://perfact.de/wp-content/uploads/2019/04/favicon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
