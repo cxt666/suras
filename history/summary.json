@@ -76,19 +76,19 @@
     "url": "https://cn-ap-vpn.schaefflercn.com/vpn",
     "icon": "https://www.pulsesecure.net/favicon.ico",
     "slug": "suras-cn",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 3377,
-    "timeDay": 3377,
-    "timeWeek": 3377,
-    "timeMonth": 3377,
-    "timeYear": 3377,
+    "status": "up",
+    "uptime": "84.32%",
+    "uptimeDay": "84.32%",
+    "uptimeWeek": "84.32%",
+    "uptimeMonth": "84.32%",
+    "uptimeYear": "84.32%",
+    "time": 3588,
+    "timeDay": 3588,
+    "timeWeek": 3588,
+    "timeMonth": 3588,
+    "timeYear": 3588,
     "dailyMinutesDown": {
-      "2021-07-13": 0
+      "2021-07-13": 20
     }
   },
   {
