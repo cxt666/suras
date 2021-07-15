@@ -16,10 +16,10 @@ sites:
     url: https://kr-ap-vpn.schaeffler.com/vpn
     icon: https://www.pulsesecure.net/favicon.ico
   - name: SURAS-CN
-    url: https://cn-ap-vpn.schaefflercn.com/vpn
+    url: https://cn-ap-vpn.schaefflercn.com/vpn2f
     icon: https://www.pulsesecure.net/favicon.ico
   - name: SURAS-IN
-    url: https://in-ap-vpn.schaeffler.com/vpn
+    url: https://in-ap-vpn.schaeffler.com/vpn2f
     icon: https://www.pulsesecure.net/favicon.ico
   - name: SURAS-NA 1
     url: https://us-equ1-vpn.schaeffler.com/vpn
