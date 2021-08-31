@@ -126,19 +126,19 @@
     "url": "https://us-equ1-vpn.schaeffler.com/vpn",
     "icon": "https://www.pulsesecure.net/favicon.ico",
     "slug": "suras-na-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1448,
-    "timeDay": 2982,
-    "timeWeek": 2172,
-    "timeMonth": 1577,
-    "timeYear": 1448,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 1446,
+    "timeDay": 2166,
+    "timeWeek": 2069,
+    "timeMonth": 1570,
+    "timeYear": 1446,
     "dailyMinutesDown": {
-      "2021-08-31": 0
+      "2021-08-31": 25
     }
   },
   {
