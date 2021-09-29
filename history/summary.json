@@ -40,19 +40,19 @@
     "url": "https://de-emea3-vpn.schaeffler.com/vpn",
     "icon": "https://www.pulsesecure.net/favicon.ico",
     "slug": "suras-de-3",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1823,
-    "timeDay": 1509,
-    "timeWeek": 1725,
-    "timeMonth": 1813,
-    "timeYear": 1823,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 1828,
+    "timeDay": 1848,
+    "timeWeek": 1783,
+    "timeMonth": 1824,
+    "timeYear": 1828,
     "dailyMinutesDown": {
-      "2021-09-29": 2
+      "2021-09-29": 25
     }
   },
   {
@@ -190,19 +190,19 @@
     "url": "https://mgw.schaeffler.com/mobile",
     "icon": "https://www.pulsesecure.net/favicon.ico",
     "slug": "suras-mobile-devices",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1750,
-    "timeDay": 1388,
-    "timeWeek": 1642,
-    "timeMonth": 1714,
-    "timeYear": 1750,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 1758,
+    "timeDay": 1869,
+    "timeWeek": 1731,
+    "timeMonth": 1734,
+    "timeYear": 1758,
     "dailyMinutesDown": {
-      "2021-09-29": 1
+      "2021-09-29": 24
     }
   },
   {
@@ -210,19 +210,19 @@
     "url": "https://rgw.schaeffler.com",
     "icon": "https://www.pulsesecure.net/favicon.ico",
     "slug": "rgw-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1362,
-    "timeDay": 1179,
-    "timeWeek": 1113,
-    "timeMonth": 1110,
-    "timeYear": 1362,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 1365,
+    "timeDay": 1378,
+    "timeWeek": 1171,
+    "timeMonth": 1124,
+    "timeYear": 1365,
     "dailyMinutesDown": {
-      "2021-09-29": 1
+      "2021-09-29": 24
     }
   },
   {
@@ -230,19 +230,19 @@
     "url": "https://rmg.schaeffler.com/WebApp/user_login",
     "icon": "https://perfact.de/wp-content/uploads/2019/04/favicon.png",
     "slug": "rmg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 781,
-    "timeDay": 668,
-    "timeWeek": 719,
-    "timeMonth": 767,
-    "timeYear": 781,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 783,
+    "timeDay": 808,
+    "timeWeek": 747,
+    "timeMonth": 773,
+    "timeYear": 783,
     "dailyMinutesDown": {
-      "2021-09-29": 0
+      "2021-09-29": 23
     }
   }
 ]
