@@ -60,19 +60,19 @@
     "url": "https://kr-ap-vpn.schaeffler.com/vpn",
     "icon": "https://www.pulsesecure.net/favicon.ico",
     "slug": "suras-ap",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3047,
-    "timeDay": 4919,
-    "timeWeek": 3380,
-    "timeMonth": 3294,
-    "timeYear": 3047,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
+    "time": 3036,
+    "timeDay": 3336,
+    "timeWeek": 3177,
+    "timeMonth": 3245,
+    "timeYear": 3036,
     "dailyMinutesDown": {
-      "2021-10-25": 0
+      "2021-10-25": 41
     }
   },
   {
