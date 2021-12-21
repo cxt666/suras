@@ -91,7 +91,7 @@
     "uptimeYear": "98.77%",
     "time": 2877,
     "timeDay": 1858,
-    "timeWeek": 2959,
+    "timeWeek": 2713,
     "timeMonth": 2865,
     "timeYear": 2877,
     "dailyMinutesDown": {
@@ -242,9 +242,9 @@
     "url": "https://rmg.schaeffler.com/WebApp/user_login",
     "icon": "https://perfact.de/wp-content/uploads/2019/04/favicon.png",
     "slug": "rmg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
@@ -254,6 +254,7 @@
     "timeMonth": 712,
     "timeYear": 768,
     "dailyMinutesDown": {
+      "2021-12-21": 0,
       "2021-12-16": 41,
       "2021-09-29": 23
     }
